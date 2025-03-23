@@ -1,4 +1,6 @@
 ### Olá!! Eu sou o Lucas.
+
+<div display="ïnline-block">
 <div>
   <p>Atualmente estou finalizando o curso de Engenharia de Software</p>
   <p>Estou realizando também o curso da EBAC de desenvolvedor Full-Stack </p>
@@ -8,6 +10,7 @@
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark">
+</div>
 </div>
 
 <div style="display: inline_block"><br>
