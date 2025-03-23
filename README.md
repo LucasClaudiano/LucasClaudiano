@@ -5,7 +5,7 @@
   <p>Atualmente estou finalizando o curso de Engenharia de Software</p>
   <p>Estou realizando também o curso da EBAC de desenvolvedor Full-Stack </p>
   <p>Sou apaixonado por tecnologia e por poder coloborar com meu trabalho</p>
-  <p>Tenho uma grande esperiência de gestão de equipes em diversas áreas , com isso meu foco principal é no desenvolvimento Full-Stack voltado para toda a estruturação da engenharia de software , buscando no futuro ser um profissional completo capaz de gerenciar grandes projetos. </p>
+  <p>Tenho uma grande experiência de gestão de equipes em diversas áreas , com isso meu foco principal é no desenvolvimento Full-Stack voltado para toda a estruturação da engenharia de software , buscando no futuro ser um profissional completo capaz de gerenciar grandes projetos. </p>
 </div> 
 
 <div>
@@ -20,7 +20,11 @@
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  
 </div>
   
   ##
