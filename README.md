@@ -1,11 +1,11 @@
-### Olá!! Eu sou o Lucas.
+### Hello!! I'm Lucas.
 
 <div display="flex" flex-direction="row">
 <div>
-  <p>Atualmente estou finalizando o curso de Engenharia de Software</p>
-  <p>Estou realizando também o curso da EBAC de desenvolvedor Full-Stack </p>
-  <p>Sou apaixonado por tecnologia e por poder coloborar com meu trabalho</p>
-  <p>Tenho uma grande experiência de gestão de equipes em diversas áreas , com isso meu foco principal é no desenvolvimento Full-Stack voltado para toda a estruturação da engenharia de software , buscando no futuro ser um profissional completo capaz de gerenciar grandes projetos. </p>
+<p>I am currently finishing my Software Engineering course</p>
+<p>I am also taking the EBAC Full-Stack developer course</p>
+<p>I am passionate about technology and being able to collaborate with my work</p>
+<p>I have extensive experience managing teams in various areas, so my main focus is on Full-Stack development aimed at the entire structuring of software engineering, seeking in the future to be a complete professional capable of managing large projects.</p>
 </div> 
 
 <div>
