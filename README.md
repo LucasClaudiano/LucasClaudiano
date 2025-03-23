@@ -1,7 +1,8 @@
 ### Olá!! Eu sou o Lucas.
 
 <div>
-  
+ -Atualmente estou finalizando o curso de Engenharia de Software
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark">
 </div>
 
