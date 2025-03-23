@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Lucas.
 
-<div display="ïnline-block">
+<div display="flex" flex-direction="row">
 <div>
   <p>Atualmente estou finalizando o curso de Engenharia de Software</p>
   <p>Estou realizando também o curso da EBAC de desenvolvedor Full-Stack </p>
