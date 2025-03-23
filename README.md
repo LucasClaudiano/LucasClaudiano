@@ -2,6 +2,9 @@
 
 <div>
  -Atualmente estou finalizando o curso de Engenharia de Software
+ -Estou realizando também o curso da EBAC de desenvolvedor Full-Stack 
+ -Sou apaixonado por tecnologia e por poder coloborar com meu trabalho 
+ -Tenho uma grande esperiência de gestão de equipes em diversas áreas , com isso meu foco principal é no desenvolvimento Full-Stack voltado para toda a estruturação da engenharia de software , buscando no futuro ser um profissional completo capaz de gerenciar grandes projetos. 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark">
 </div>
